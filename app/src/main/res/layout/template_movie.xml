@@ -42,7 +42,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="180dp"
                     android:background="#333"
-                    app:setImageURI="@{movie.backdropPath}"
+                    app:setImageURI="@{@string/url_img + movie.backdropPath}"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />

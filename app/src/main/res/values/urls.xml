@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="url_base">https://api.themoviedb.org/3/</string>
-    <string name="url_img">https://image.tmdb.org/t/p/w800/</string>
+    <string name="url_img">https://image.tmdb.org/t/p/w500</string>
 </resources>
